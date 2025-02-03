@@ -1,3 +1,23 @@
+/** Class Mansion
+ *  no package defined.
+ *
+ * @author Richard Kitz
+ * @version 1.0
+ *
+ * Course: ITEC 2150 - 01 Spring 2025
+ *
+ * Written: January 19-26, 2025
+ * Updated:
+ *
+ * Updates:  None
+ *   Update:
+ *
+ * Assignment Build a graphic representation of a house
+ *
+ *
+ * This class (Mansion)  is written in Java using IntelliJ JDK at the Java 23 level.
+ *
+ */
 import java.awt.*;
 import java.util.Random;
 
